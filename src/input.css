@@ -1,0 +1,10 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;500;600;700&family=Chakra+Petch:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  --font-bai: "Bai Jamjuree", sans-serif;
+  --font-inter: "Inter", sans-serif;
+  --font-chakra: "Chakra Petch", sans-serif;
+}
