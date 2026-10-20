@@ -8,12 +8,12 @@ O objetivo do projeto é a prática de recriação de interfaces responsivas, es
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **HTML5**: Estruturação de marcação e tags semânticas[cite: 4].
+* **HTML5**: Estruturação de marcação e tags semânticas.
 * **Tailwind CSS (v4)**: Framework CSS utilitário para estilização e layout responsivo.
 * **Google Fonts**:
-  * [Bai Jamjuree](https://fonts.google.com/specimen/Bai+Jamjuree)[cite: 5]
-  * [Inter](https://fonts.google.com/specimen/Inter)[cite: 5]
-  * [Chakra Petch](https://fonts.google.com/specimen/Chakra+Petch)[cite: 5]
+  * [Bai Jamjuree](https://fonts.google.com/specimen/Bai+Jamjuree)
+  * [Inter](https://fonts.google.com/specimen/Inter)
+  * [Chakra Petch](https://fonts.google.com/specimen/Chakra+Petch)
 
 ---
 
